@@ -25,3 +25,23 @@ header, footer {
     margin: 10px 0;
     color: #a0522d;
 }
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: inline-block;
+    border: 1px solid #333;
+}
+nav ul li {
+    display: block;
+    border-bottom: 1px solid #333;
+}
+nav ul li:last-child {
+    border-bottom: none;
+}
+nav a {
+    text-decoration: none;
+    color: #333;
+    padding: 10px 40px;
+    display: block;
+}
