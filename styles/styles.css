@@ -13,3 +13,8 @@ header, footer {
     text-align: center;
     border-bottom: 2px solid #f2a2c0;
 }
+
+.logo {
+    max-width: 120px;
+    height: auto;
+}
