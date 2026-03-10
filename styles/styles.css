@@ -6,3 +6,10 @@ body {
     background-color: #fdf5f5;
     color: #333;
 }
+
+header, footer {
+    background-color: #f8c8dc;
+    padding: 2rem;
+    text-align: center;
+    border-bottom: 2px solid #f2a2c0;
+}
