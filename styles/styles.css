@@ -45,3 +45,7 @@ nav a {
     padding: 10px 40px;
     display: block;
 }
+nav a:hover, .active-page {
+    background-color: #613c22;
+    color: white;
+}
