@@ -23,7 +23,7 @@ header, footer {
     font-size: 2.2rem;
     font-weight: bold;
     margin: 10px 0;
-    color: #a0522d;
+    color: #613c22;
 }
 
 nav ul {
@@ -48,4 +48,10 @@ nav a {
 nav a:hover, .active-page {
     background-color: #613c22;
     color: white;
+}
+
+main {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 0 20px;
 }
