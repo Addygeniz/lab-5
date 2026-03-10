@@ -71,3 +71,11 @@ label {
     display: block;
     margin-bottom: 8px;
     font-weight: 600;
+}
+input, textarea, select {
+    width: 98%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+}
