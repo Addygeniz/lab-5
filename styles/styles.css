@@ -92,3 +92,22 @@ button {
 button:hover {
     background-color: #613c22;
 }
+
+.socials {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 10px;
+}
+.socials a {
+    text-decoration: none;
+    color: #333;
+    font-size: 0.9rem;
+    font-weight: bold;
+    display: inline;
+}
+.socials a:hover {
+    color: #8b4513;
+    text-decoration: underline;
+}
